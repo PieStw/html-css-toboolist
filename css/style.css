@@ -7,10 +7,11 @@
   }
 
 body{
-
     background-color: #F7F8FA;
+}
 
-
+li{
+    margin: 20px 0;
 }
   
   /* # UTILS */
@@ -110,17 +111,16 @@ body{
   .check{
     height: 20px;
     width: 20px;
-    color: green;
     border-radius: 100%;
-    border: 1px solid green;
+    border: 1px solid currentColor;
     background-color: transparent;
   }
 
-  .cross{
-    height: 20px;
-    width: 20px;
+ .green{
+    color: green;
+ }
+
+ .red{
     color: red;
-    border-radius: 100%;
-    border: 1px solid red;
-    background-color: transparent;
-  }
+ }
+
