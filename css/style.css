@@ -72,7 +72,7 @@ li{
     background-color: #48ACEF;
     color: white;
     border: 1px solid #48ACEF;
-    border-radius: 10%;
+    border-radius: 5px;
     width: 80px;
     height: 25px;
   }
@@ -122,5 +122,36 @@ li{
 
  .red{
     color: red;
+ }
+
+ #editorial{
+    border-radius: 15px;
+    background-color: #48ACEF;
+    border: 1px solid #48ACEF
+ }
+ #Q1{
+    border-radius: 15px;
+    background-color: #9674D9;
+    border: 1px solid #9674D9
+ }
+ #recruiting{
+    border-radius: 15px;
+    background-color: #65BEA2;
+    border: 1px solid #65BEA2
+ }
+ #mobile{
+    border-radius: 15px;
+    background-color: #F09E39;
+    border: 1px solid #F09E39
+ }
+ #website{
+    border-radius: 15px;
+    background-color: #D9659C;
+    border: 1px solid #D9659C
+ }
+ #sales{
+    border-radius: 15px;
+    background-color: #B2C92B;
+    border: 1px solid #B2C92B
  }
 
